@@ -1,17 +1,38 @@
-<<<<<<< HEAD
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple counter application built using ReactJS and styled with CSS.
 
-Currently, two official plugins are available:
+This project helps understand the basics of React, including useState for managing state and useEffect for lifecycle methods. The app allows users to increment and decrement a counter using buttons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Increment and decrement buttons
+- Displays current count
+- Clean and minimal UI with CSS styling
+- Built with functional components and hooks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# React-Counter-App
-This is a basic counter app built with ReactJS and CSS. It features simple increment and decrement buttons and helped me understand the use of React hooks like useState and useEffect. It's a great starter project for anyone learning React.
->>>>>>> 2256e362f0218ed1c8a7ca7e0aed7e6e7b6a7af6
+## Demo
+
+Live Demo: [Add your live link here]  
+GitHub Repo: [https://github.com/Vishwanathangit/React-Counter-App.git]
+
+## Getting Started
+
+1. Clone the repository  
+   https://github.com/Vishwanathangit/React-Counter-App.git
+
+2. Navigate to the project folder  
+   cd react-counter-app
+
+3. Install dependencies  
+   npm install
+
+4. Run the app  
+   npm start
+
+## Learnings
+
+- Understanding of React lifecycle with useEffect
+- Managing state with useState
+- Component-based design
+- Simple UI styling using CSS
