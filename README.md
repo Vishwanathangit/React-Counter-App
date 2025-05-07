@@ -13,7 +13,7 @@ This project helps understand the basics of React, including useState for managi
 
 ## Demo
 
-Live Demo: [Add your live link here]  
+Live Demo: [https://react-counter-app-three-rho.vercel.app/]  
 GitHub Repo: [https://github.com/Vishwanathangit/React-Counter-App.git]
 
 ## Getting Started
